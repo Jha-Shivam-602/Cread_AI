@@ -10,15 +10,15 @@ The system uses **Google Gemini 1.5 Pro (Vision)** for the image-to-image stylis
 ### Subject Images (Input)
 | Subject 1 | Subject 2 |
 | :---: | :---: |
-| <img src="./assets/subject_sample_1.png" width="300" /> | <img src="./assets/subject_sample_2.jpg" width="300" /> |
+| ![Subject 1](assets/subject_sample_1.png) | ![Subject 2](assets/subject_sample_2.jpg) |
 
 ### Frame / Background (Input)
-<img src="./assets/frame_sample.jpg" width="300" />
+![Frame](assets/frame_sample.jpg)
 
 ### Generated Output (Result)
 | Output 1 | Output 2 |
 | :---: | :---: |
-| <img src="./assets/output_sample_1.png" width="400" /> | <img src="./assets/output_sample_2.png" width="400" /> |
+| ![Output 1](assets/output_sample_1.png) | ![Output 2](assets/output_sample_2.png) |
 
 ---
 
