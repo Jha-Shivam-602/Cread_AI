@@ -13,7 +13,7 @@ The system uses **Google Gemini 1.5 Pro (Vision)** for the image-to-image stylis
 | ![Subject 1](assets/subject_sample_1.png) | ![Subject 2](assets/subject_sample_2.jpg) |
 
 ### Frame / Background (Input)
-![Frame](assets/frame_sample.jpg)
+<img src="./assets/frame_sample.jpg" width="100" />
 
 ### Generated Output (Result)
 | Output 1 | Output 2 |
